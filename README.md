@@ -18,3 +18,11 @@ Legacy Capital — это программная платформа для:
 - **Импорт данных** — интеграция с брокерами и банками (API).
 - **Отчётность** — PDF‑экспорт, шаблоны для инвесторов.
 - **Уведомления** — алерты по ключевым событиям рынка.
+
+Контакты
+Сайт: https://legacycapital.ru/
+
+Email: support@legacycapital.ru
+
+Telegram: https://t.me/legacy_capital_bot
+
